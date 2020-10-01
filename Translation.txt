@@ -1,0 +1,10 @@
+hello:ahoy
+sir:matey
+hi:arrrr
+friend:m'hearty
+treasure:booty
+take:billage
+idiot:scallywag
+vote:mutiny
+talk:parley
+captain:cap'n
